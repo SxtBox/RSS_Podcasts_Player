@@ -7,6 +7,14 @@ function jw_player($url){
 $stream_url = @$_GET['url'];
 if(!$stream_url)
 $stream_url = "";
+$stream_url = str_replace(
+	// REPLACE FROM
+    array(" "),
+	// REPLACE TO
+    array("%20"),
+    $stream_url
+);
+
 $width = '100%';
 $height = '100%';
 {
@@ -66,7 +74,7 @@ a:active {
 jwplayer("player").setup({
 playlist: [
     {
-    image: "https://radiorecord.ru/upload/rr-logo-podcast.jpg",
+    image: "https://png.kodi.al/tv/albdroid/logo_bar.png",
     sources: [ 
     {
 		file: "'.$stream_url.'",

@@ -7,6 +7,15 @@ function clappr_player($url){
 $stream_url = @$_GET['url'];
 if(!$stream_url)
 $stream_url = "";
+
+$stream_url = str_replace(
+	// REPLACE FROM
+    array(" "),
+	// REPLACE TO
+    array("%20"),
+    $stream_url
+);
+
 $width = '100%';
 $height = '100%';
 {
@@ -47,12 +56,12 @@ a:active {
 var player = new Clappr.Player({
 source: "'.$stream_url.'",
 mimeType: \'audio/mpeg\',
-poster: "https://radiorecord.ru/upload/rr-logo-podcast.jpg",
+poster: "https://png.kodi.al/tv/albdroid/logo_bar.png",
 watermark: "https://png.kodi.al/tv/albdroid/logo_bar.png",
 position: "top-right",
 parentId: "#player",
 playInline: true,
-autoPlay: true,
+autoPlay: false,
 mediacontrol: {seekbar: "#0F0", buttons: "#0F0"},
 width: "'.$width.'",
 height: "'.$height.'"
