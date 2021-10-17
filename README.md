@@ -3,6 +3,7 @@ RSS Podcast Player
 
 # Live Demo
     https://paidcodes.albdroid.al/RSS_Builder_Apis/RSS_Podcasts_Player/ + ?url={RSS URL}
+    Example: https://paidcodes.albdroid.al/RSS_Builder_Apis/RSS_Podcasts_Player/?url=https://tritonia.libsyn.com/rss
     RSS Media Database: https://paidcodes.albdroid.al/RSS_Builder_Apis/RSS_Merger_AIO/API_Links
 
 Config
