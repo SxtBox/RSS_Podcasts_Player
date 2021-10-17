@@ -2,7 +2,8 @@
 RSS Podcast Player
 
 # Live Demo
-    https://paidcodes.albdroid.al/RSS_Builder_Apis/RSS_Podcasts_Player/
+    https://paidcodes.albdroid.al/RSS_Builder_Apis/RSS_Podcasts_Player/ + ?url={RSS URL}
+    RSS Media Database: https://paidcodes.albdroid.al/RSS_Builder_Apis/RSS_Merger_AIO/API_Links
 
 Config
 ==============
