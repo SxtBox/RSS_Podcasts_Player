@@ -1,4 +1,4 @@
-# Radio Record Podcasts Player
+# RSS Podcasts Player
 RSS Podcast Player
 
 Config
