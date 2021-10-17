@@ -1,0 +1,241 @@
+#EXTM3U Albdroid TV Streaming
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Radio Record" tvg-logo="https://radiorecord.ru/upload/stations_images/record_image600_colored_fill.png" group-title="Radio Record",Record
+https://hls-01-radiorecord.hostingradio.ru/record/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Radio Record" tvg-logo="https://radiorecord.ru/upload/stations_images/party-24-7_image600_colored_fill.png" group-title="Radio Record",Party 24/7
+https://hls-01-radiorecord.hostingradio.ru/record-party/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Radio Record" tvg-logo="https://radiorecord.ru/upload/stations_images/organic_image600_colored_fill.png" group-title="Radio Record",Organic
+https://hls-01-radiorecord.hostingradio.ru/record-organic/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Radio Record" tvg-logo="https://radiorecord.ru/upload/stations_images/chillhouse_image600_colored_fill.png" group-title="Radio Record",Chill House
+https://hls-01-radiorecord.hostingradio.ru/record-chillhouse/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Radio Record" tvg-logo="https://radiorecord.ru/upload/stations_images/lofi_image600_colored_fill.png" group-title="Radio Record",Lo-Fi
+https://hls-01-radiorecord.hostingradio.ru/record-lofi/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Radio Record" tvg-logo="https://radiorecord.ru/upload/stations_images/dream-pop_image600_colored_fill.png" group-title="Radio Record",Dream Pop
+https://hls-01-radiorecord.hostingradio.ru/record-dreampop/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Radio Record" tvg-logo="https://radiorecord.ru/upload/stations_images/ambient_image600_colored_fill.png" group-title="Radio Record",Ambient
+https://hls-01-radiorecord.hostingradio.ru/record-ambient/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Radio Record" tvg-logo="https://radiorecord.ru/upload/stations_images/ibiza_image600_colored_fill.png" group-title="Radio Record",Innocence
+https://hls-01-radiorecord.hostingradio.ru/record-ibiza/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Radio Record" tvg-logo="https://radiorecord.ru/upload/stations_images/deep_image600_colored_fill.png" group-title="Radio Record",Deep
+https://hls-01-radiorecord.hostingradio.ru/record-deep/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Radio Record" tvg-logo="https://radiorecord.ru/upload/stations_images/techouse_image600_colored_fill.png" group-title="Radio Record",Tech House
+https://hls-01-radiorecord.hostingradio.ru/record-techouse/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Radio Record" tvg-logo="https://radiorecord.ru/upload/stations_images/rus_image600_colored_fill.png" group-title="Radio Record",Russian Mix
+https://hls-01-radiorecord.hostingradio.ru/record-rus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Radio Record" tvg-logo="https://radiorecord.ru/upload/stations_images/chil_image600_colored_fill.png" group-title="Radio Record",Chill-Out
+https://hls-01-radiorecord.hostingradio.ru/record-chil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Radio Record" tvg-logo="https://radiorecord.ru/upload/stations_images/ps_image600_colored_fill.png" group-title="Radio Record",Pirate Station
+https://hls-01-radiorecord.hostingradio.ru/record-ps/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Radio Record" tvg-logo="https://radiorecord.ru/upload/stations_images/mf_image600_colored_fill.png" group-title="Radio Record",Маятник Фуко
+https://hls-01-radiorecord.hostingradio.ru/record-mf/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Radio Record" tvg-logo="https://radiorecord.ru/upload/stations_images/yo_image600_colored_fill.png" group-title="Radio Record",Black Rap
+https://hls-01-radiorecord.hostingradio.ru/record-yo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Radio Record" tvg-logo="https://radiorecord.ru/upload/stations_images/tm_image600_colored_fill.png" group-title="Radio Record",Trancemission
+https://hls-01-radiorecord.hostingradio.ru/record-tm/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Radio Record" tvg-logo="https://radiorecord.ru/upload/stations_images/mix_image600_colored_fill.png" group-title="Radio Record",Megamix
+https://hls-01-radiorecord.hostingradio.ru/record-mix/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Radio Record" tvg-logo="https://radiorecord.ru/upload/stations_images/gold_image600_colored_fill.png" group-title="Radio Record",Record Gold
+https://hls-01-radiorecord.hostingradio.ru/record-gold/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Radio Record" tvg-logo="https://radiorecord.ru/upload/stations_images/bighits_image600_colored_fill.png" group-title="Radio Record",Big Hits
+https://hls-01-radiorecord.hostingradio.ru/record-bighits/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Radio Record" tvg-logo="https://radiorecord.ru/upload/stations_images/rmx_image600_colored_fill.png" group-title="Radio Record",Remix
+https://hls-01-radiorecord.hostingradio.ru/record-rmx/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Radio Record" tvg-logo="https://radiorecord.ru/upload/stations_images/russianhits_image600_colored_fill.png" group-title="Radio Record",Russian Hits
+https://hls-01-radiorecord.hostingradio.ru/record-russianhits/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Radio Record" tvg-logo="https://radiorecord.ru/upload/stations_images/summer-dance_image600_colored_fill.png" group-title="Radio Record",Summer Dance
+https://hls-01-radiorecord.hostingradio.ru/record-summerparty/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Radio Record" tvg-logo="https://radiorecord.ru/upload/stations_images/sd90_image600_colored_fill.png" group-title="Radio Record",Супердискотека 90-х
+https://hls-01-radiorecord.hostingradio.ru/record-sd90/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Radio Record" tvg-logo="https://radiorecord.ru/upload/stations_images/russiangold_image600_colored_fill.png" group-title="Radio Record",Russian Gold
+https://hls-01-radiorecord.hostingradio.ru/record-russiangold/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Radio Record" tvg-logo="https://radiorecord.ru/upload/stations_images/jackin_image600_colored_fill.png" group-title="Radio Record",Bass House
+https://hls-01-radiorecord.hostingradio.ru/record-jackin/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Radio Record" tvg-logo="https://radiorecord.ru/upload/stations_images/vip_image600_colored_fill.png" group-title="Radio Record",VIP House
+https://hls-01-radiorecord.hostingradio.ru/record-vip/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Radio Record" tvg-logo="https://radiorecord.ru/upload/stations_images/trancehits_image600_colored_fill.png" group-title="Radio Record",Trance Classics
+https://hls-01-radiorecord.hostingradio.ru/record-trancehits/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Radio Record" tvg-logo="https://radiorecord.ru/upload/stations_images/househits_image600_colored_fill.png" group-title="Radio Record",House Hits
+https://hls-01-radiorecord.hostingradio.ru/record-househits/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Radio Record" tvg-logo="https://radiorecord.ru/upload/stations_images/club_image600_colored_fill.png" group-title="Radio Record",EDM
+https://hls-01-radiorecord.hostingradio.ru/record-club/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Radio Record" tvg-logo="https://radiorecord.ru/upload/stations_images/mini_image600_colored_fill.png" group-title="Radio Record",Minimal/Tech
+https://hls-01-radiorecord.hostingradio.ru/record-mini/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Radio Record" tvg-logo="https://radiorecord.ru/upload/stations_images/trop_image600_colored_fill.png" group-title="Radio Record",Tropical
+https://hls-01-radiorecord.hostingradio.ru/record-trop/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Radio Record" tvg-logo="https://radiorecord.ru/upload/stations_images/houseclss_image600_colored_fill.png" group-title="Radio Record",House Classics
+https://hls-01-radiorecord.hostingradio.ru/record-houseclss/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Radio Record" tvg-logo="https://radiorecord.ru/upload/stations_images/drumhits_image600_colored_fill.png" group-title="Radio Record",D'n'B Classics
+https://hls-01-radiorecord.hostingradio.ru/record-drumhits/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Radio Record" tvg-logo="https://radiorecord.ru/upload/stations_images/edmhits_image600_colored_fill.png" group-title="Radio Record",EDM Classics
+https://hls-01-radiorecord.hostingradio.ru/record-edmhits/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Radio Record" tvg-logo="https://radiorecord.ru/upload/stations_images/fut_image600_colored_fill.png" group-title="Radio Record",Future House
+https://hls-01-radiorecord.hostingradio.ru/record-fut/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Radio Record" tvg-logo="https://radiorecord.ru/upload/stations_images/trap_image600_colored_fill.png" group-title="Radio Record",Trap
+https://hls-01-radiorecord.hostingradio.ru/record-trap/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Radio Record" tvg-logo="https://radiorecord.ru/upload/stations_images/rapclassics_image600_colored_fill.png" group-title="Radio Record",Rap Classics
+https://hls-01-radiorecord.hostingradio.ru/record-rapclassics/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Radio Record" tvg-logo="https://radiorecord.ru/upload/stations_images/progr_image600_colored_fill.png" group-title="Radio Record",Progressive
+https://hls-01-radiorecord.hostingradio.ru/record-progr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Radio Record" tvg-logo="https://radiorecord.ru/upload/stations_images/brks_image600_colored_fill.png" group-title="Radio Record",Breaks
+https://hls-01-radiorecord.hostingradio.ru/record-brks/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Radio Record" tvg-logo="https://radiorecord.ru/upload/stations_images/trancehouse_image600_colored_fill.png" group-title="Radio Record",Trancehouse
+https://hls-01-radiorecord.hostingradio.ru/record-trancehouse/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Radio Record" tvg-logo="https://radiorecord.ru/upload/stations_images/rap_image600_colored_fill.png" group-title="Radio Record",Rap Hits
+https://hls-01-radiorecord.hostingradio.ru/record-rap/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Radio Record" tvg-logo="https://radiorecord.ru/upload/stations_images/goa_image600_colored_fill.png" group-title="Radio Record",GOA/PSY
+https://hls-01-radiorecord.hostingradio.ru/record-goa/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Radio Record" tvg-logo="https://radiorecord.ru/upload/stations_images/dream_image600_colored_fill.png" group-title="Radio Record",Dream Dance
+https://hls-01-radiorecord.hostingradio.ru/record-dream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Radio Record" tvg-logo="https://radiorecord.ru/upload/stations_images/uplift_image600_colored_fill.png" group-title="Radio Record",Uplifting
+https://hls-01-radiorecord.hostingradio.ru/record-uplift/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Radio Record" tvg-logo="https://radiorecord.ru/upload/stations_images/elect_image600_colored_fill.png" group-title="Radio Record",Electro
+https://hls-01-radiorecord.hostingradio.ru/record-elect/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Radio Record" tvg-logo="https://radiorecord.ru/upload/stations_images/fbass_image600_colored_fill.png" group-title="Radio Record",Future Bass
+https://hls-01-radiorecord.hostingradio.ru/record-fbass/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Radio Record" tvg-logo="https://radiorecord.ru/upload/stations_images/neurofunk_image600_colored_fill.png" group-title="Radio Record",Neurofunk
+https://hls-01-radiorecord.hostingradio.ru/record-neurofunk/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Radio Record" tvg-logo="https://radiorecord.ru/upload/stations_images/dc_image600_colored_fill.png" group-title="Radio Record",Dancecore
+https://hls-01-radiorecord.hostingradio.ru/record-dc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Radio Record" tvg-logo="https://radiorecord.ru/upload/stations_images/liquidfunk_image600_colored_fill.png" group-title="Radio Record",Liquid Funk
+https://hls-01-radiorecord.hostingradio.ru/record-liquidfunk/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Radio Record" tvg-logo="https://radiorecord.ru/upload/stations_images/eurodance_image600_colored_fill.png" group-title="Radio Record",Eurodance
+https://hls-01-radiorecord.hostingradio.ru/record-eurodance/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Radio Record" tvg-logo="https://radiorecord.ru/upload/stations_images/dub_image600_colored_fill.png" group-title="Radio Record",Dubstep
+https://hls-01-radiorecord.hostingradio.ru/record-dub/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Radio Record" tvg-logo="https://radiorecord.ru/upload/stations_images/technopop_image600_colored_fill.png" group-title="Radio Record",Technopop
+https://hls-01-radiorecord.hostingradio.ru/record-technopop/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Radio Record" tvg-logo="https://radiorecord.ru/upload/stations_images/techno_image600_colored_fill.png" group-title="Radio Record",Techno
+https://hls-01-radiorecord.hostingradio.ru/record-techno/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Radio Record" tvg-logo="https://radiorecord.ru/upload/stations_images/discofunk_image600_colored_fill.png" group-title="Radio Record",Disco/Funk
+https://hls-01-radiorecord.hostingradio.ru/record-discofunk/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Radio Record" tvg-logo="https://radiorecord.ru/upload/stations_images/teo_image600_colored_fill.png" group-title="Radio Record",Hardstyle
+https://hls-01-radiorecord.hostingradio.ru/record-teo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Radio Record" tvg-logo="https://radiorecord.ru/upload/stations_images/tecktonik_image600_colored_fill.png" group-title="Radio Record",Tecktonik
+https://hls-01-radiorecord.hostingradio.ru/record-tecktonik/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Radio Record" tvg-logo="https://radiorecord.ru/upload/stations_images/mt_image600_colored_fill.png" group-title="Radio Record",Midtempo
+https://hls-01-radiorecord.hostingradio.ru/record-mt/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Radio Record" tvg-logo="https://radiorecord.ru/upload/stations_images/synth_image600_colored_fill.png" group-title="Radio Record",Synthwave
+https://hls-01-radiorecord.hostingradio.ru/record-synth/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Radio Record" tvg-logo="https://radiorecord.ru/upload/stations_images/pump_image600_colored_fill.png" group-title="Radio Record",Old School
+https://hls-01-radiorecord.hostingradio.ru/record-pump/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Radio Record" tvg-logo="https://radiorecord.ru/upload/stations_images/hbass_image600_colored_fill.png" group-title="Radio Record",Hard Bass
+https://hls-01-radiorecord.hostingradio.ru/record-hbass/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Radio Record" tvg-logo="https://radiorecord.ru/upload/stations_images/darkside_image600_colored_fill.png" group-title="Radio Record",Darkside
+https://hls-01-radiorecord.hostingradio.ru/record-darkside/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Radio Record" tvg-logo="https://radiorecord.ru/upload/stations_images/hypno_image600_colored_fill.png" group-title="Radio Record",Hypnotic
+https://hls-01-radiorecord.hostingradio.ru/record-hypno/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Radio Record" tvg-logo="https://radiorecord.ru/upload/stations_images/mmbt_image600_colored_fill.png" group-title="Radio Record",Moombahton
+https://hls-01-radiorecord.hostingradio.ru/record-mmbt/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Radio Record" tvg-logo="https://radiorecord.ru/upload/stations_images/2step_image600_colored_fill.png" group-title="Radio Record",2-step
+https://hls-01-radiorecord.hostingradio.ru/record-2step/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Radio Record" tvg-logo="https://radiorecord.ru/upload/stations_images/groovetribal_image600_colored_fill.png" group-title="Radio Record",Groove/Tribal
+https://hls-01-radiorecord.hostingradio.ru/record-groovetribal/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Radio Record" tvg-logo="https://radiorecord.ru/upload/stations_images/christmas-radio_image600_colored_fill.png" group-title="Radio Record",Christmas
+https://hls-01-radiorecord.hostingradio.ru/record-christmas/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Radio Record" tvg-logo="https://radiorecord.ru/upload/stations_images/rave_image600_colored_fill.png" group-title="Radio Record",Rave FM
+https://hls-01-radiorecord.hostingradio.ru/record-rave/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Radio Record" tvg-logo="https://radiorecord.ru/upload/stations_images/jungle_image600_colored_fill.png" group-title="Radio Record",Jungle
+https://hls-01-radiorecord.hostingradio.ru/record-jungle/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Radio Record" tvg-logo="https://radiorecord.ru/upload/stations_images/complextro_image600_colored_fill.png" group-title="Radio Record",Complextro
+https://hls-01-radiorecord.hostingradio.ru/record-complextro/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Radio Record" tvg-logo="https://radiorecord.ru/upload/stations_images/gop_image600_colored_fill.png" group-title="Radio Record",Гоп FM
+https://hls-01-radiorecord.hostingradio.ru/record-gop/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Radio Record" tvg-logo="https://radiorecord.ru/upload/stations_images/rock_image600_colored_fill.png" group-title="Radio Record",Rock
+https://hls-01-radiorecord.hostingradio.ru/record-rock/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Radio Record" tvg-logo="https://radiorecord.ru/upload/stations_images/cadillac_image600_colored_fill.png" group-title="Radio Record",60's Dance
+https://hls-01-radiorecord.hostingradio.ru/record-cadillac/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Radio Record" tvg-logo="https://radiorecord.ru/upload/stations_images/1970_image600_colored_fill.png" group-title="Radio Record",70's Dance
+https://hls-01-radiorecord.hostingradio.ru/record-1970/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Radio Record" tvg-logo="https://radiorecord.ru/upload/stations_images/1980_image600_colored_fill.png" group-title="Radio Record",Record 80-х
+https://hls-01-radiorecord.hostingradio.ru/record-1980/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Radio Record" tvg-logo="https://radiorecord.ru/upload/stations_images/rv19_image600_colored_fill.png" group-title="Radio Record",Руки Вверх!
+https://hls-01-radiorecord.hostingradio.ru/record-rv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Radio Record" tvg-logo="https://radiorecord.ru/upload/stations_images/deti_image600_colored_fill.png" group-title="Radio Record",Веснушка FM
+https://hls-01-radiorecord.hostingradio.ru/record-deti/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Radio Record" tvg-logo="https://radiorecord.ru/upload/stations_images/mdl_image600_colored_fill.png" group-title="Radio Record",Медляк FM
+https://hls-01-radiorecord.hostingradio.ru/record-mdl/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Radio Record" tvg-logo="https://radiorecord.ru/upload/stations_images/naft_image600_colored_fill.png" group-title="Radio Record",Нафталин FM
+https://hls-01-radiorecord.hostingradio.ru/record-naft/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Radio Record" tvg-logo="https://radiorecord.ru/upload/stations_images/gast_image600_colored_fill.png" group-title="Radio Record",Гастарбайтер FM
+https://hls-01-radiorecord.hostingradio.ru/record-gast/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosted by Albdroid" tvg-name="Radio Record" tvg-logo="https://radiorecord.ru/upload/stations_images/symph_image600_colored_fill.png" group-title="Radio Record",Симфония FM
+https://hls-01-radiorecord.hostingradio.ru/record-symph/playlist.m3u8
